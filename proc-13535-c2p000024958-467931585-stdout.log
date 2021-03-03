@@ -1,0 +1,330 @@
+Command:
+--------
+
+_ommain nci_server.so 15 
+
+c2p000024958:Testing MPI Spawn ring in nodes: c2p000024958, c2p000024957, c2p000024956, c2p000024955, c2p000024954, c2p000024953, c2p000024952, c2p000024951, c2p000024950, c2p000024949, c2p000024948, c2p000024947, c2p000024946, c2p000024945, c2p000024944, c2p000024943, c2p000024942, c2p000024941, c2p000024940, c2p000024939, c2p000024938, c2p000024937, c2p000024936, c2p000024935, c2p000024934, c2p000024933, c2p000024932, c2p000024931, c2p000024930, c2p000024929, c2p000024928, c2p000024927, c2p000024926, c2p000024925, c2p000024924, c2p000024923, c2p000024922, c2p000024921, c2p000024920, c2p000024919, c2p000024918, c2p000024917, c2p000024915, c2p000024914, c2p000024913, c2p000024912, c2p000024911, c2p000024910, c2p000024909, c2p000024908, c2p000024907, c2p000024906, c2p000024905, c2p000024904, c2p000024903, c2p000024902, c2p000024901, c2p000024900, c2p000024899, c2p000024898, c2p000024897, c2p000024896, c2p000024895, c2p000024894, c2p000024893, c2p000024892, c2p000024891, c2p000024890, c2p000024889
+Spawning children
+c2p000024958:Testing MPI Spawn ring in nodes: 
+c2p000024954:Testing MPI Spawn ring in nodes: 
+c2p000024945:Testing MPI Spawn ring in nodes: 
+c2p000024932:Testing MPI Spawn ring in nodes: 
+c2p000024934:Testing MPI Spawn ring in nodes: 
+c2p000024957:Testing MPI Spawn ring in nodes: 
+c2p000024904:Testing MPI Spawn ring in nodes: 
+c2p000024895:Testing MPI Spawn ring in nodes: 
+c2p000024956:Testing MPI Spawn ring in nodes: 
+c2p000024909:Testing MPI Spawn ring in nodes: 
+c2p000024915:Testing MPI Spawn ring in nodes: 
+c2p000024891:Testing MPI Spawn ring in nodes: 
+c2p000024889:Testing MPI Spawn ring in nodes: 
+c2p000024911:Testing MPI Spawn ring in nodes: 
+c2p000024955:Testing MPI Spawn ring in nodes: 
+c2p000024899:Testing MPI Spawn ring in nodes: 
+c2p000024933:Testing MPI Spawn ring in nodes: 
+c2p000024917:Testing MPI Spawn ring in nodes: 
+c2p000024944:Testing MPI Spawn ring in nodes: 
+c2p000024894:Testing MPI Spawn ring in nodes: 
+c2p000024897:Testing MPI Spawn ring in nodes: 
+c2p000024892:Testing MPI Spawn ring in nodes: 
+c2p000024901:Testing MPI Spawn ring in nodes: 
+c2p000024935:Testing MPI Spawn ring in nodes: 
+c2p000024938:Testing MPI Spawn ring in nodes: 
+c2p000024910:Testing MPI Spawn ring in nodes: 
+c2p000024946:Testing MPI Spawn ring in nodes: 
+c2p000024930:Testing MPI Spawn ring in nodes: 
+c2p000024893:Testing MPI Spawn ring in nodes: 
+c2p000024948:Testing MPI Spawn ring in nodes: 
+c2p000024921:Testing MPI Spawn ring in nodes: 
+c2p000024939:Testing MPI Spawn ring in nodes: 
+c2p000024913:Testing MPI Spawn ring in nodes: 
+c2p000024937:Testing MPI Spawn ring in nodes: 
+c2p000024914:Testing MPI Spawn ring in nodes: 
+c2p000024906:Testing MPI Spawn ring in nodes: 
+c2p000024926:Testing MPI Spawn ring in nodes: 
+c2p000024928:Testing MPI Spawn ring in nodes: 
+c2p000024907:Testing MPI Spawn ring in nodes: 
+c2p000024929:Testing MPI Spawn ring in nodes: 
+c2p000024953:Testing MPI Spawn ring in nodes: 
+c2p000024941:Testing MPI Spawn ring in nodes: 
+c2p000024900:Testing MPI Spawn ring in nodes: 
+c2p000024898:Testing MPI Spawn ring in nodes: 
+c2p000024896:Testing MPI Spawn ring in nodes: 
+c2p000024912:Testing MPI Spawn ring in nodes: 
+c2p000024918:Testing MPI Spawn ring in nodes: 
+c2p000024902:Testing MPI Spawn ring in nodes: 
+c2p000024890:Testing MPI Spawn ring in nodes: 
+c2p000024927:Testing MPI Spawn ring in nodes: 
+c2p000024952:Testing MPI Spawn ring in nodes: 
+c2p000024940:Testing MPI Spawn ring in nodes: 
+c2p000024920:Testing MPI Spawn ring in nodes: 
+c2p000024925:Testing MPI Spawn ring in nodes: 
+c2p000024922:Testing MPI Spawn ring in nodes: 
+c2p000024942:Testing MPI Spawn ring in nodes: 
+c2p000024943:Testing MPI Spawn ring in nodes: 
+c2p000024951:Testing MPI Spawn ring in nodes: 
+c2p000024905:Testing MPI Spawn ring in nodes: 
+c2p000024949:Testing MPI Spawn ring in nodes: 
+c2p000024903:Testing MPI Spawn ring in nodes: 
+c2p000024950:Testing MPI Spawn ring in nodes: 
+c2p000024947:Testing MPI Spawn ring in nodes: 
+c2p000024919:Testing MPI Spawn ring in nodes: 
+c2p000024924:Testing MPI Spawn ring in nodes: 
+c2p000024936:Testing MPI Spawn ring in nodes: 
+c2p000024923:Testing MPI Spawn ring in nodes: 
+c2p000024908:Testing MPI Spawn ring in nodes: 
+c2p000024931:Testing MPI Spawn ring in nodes: 
+I'm the parent: c2p000024958
+I'm spawned: c2p000024899
+I'm spawned: c2p000024937
+I'm spawned: c2p000024958
+I'm spawned: c2p000024893
+I'm spawned: c2p000024921
+I'm spawned: c2p000024926
+I'm spawned: c2p000024952
+I'm spawned: c2p000024957
+I'm spawned: c2p000024945
+I'm spawned: c2p000024946
+I'm spawned: c2p000024953
+I'm spawned: c2p000024934
+I'm spawned: c2p000024938
+I'm spawned: c2p000024950
+I'm spawned: c2p000024920
+I'm spawned: c2p000024947
+I'm spawned: c2p000024936
+I'm spawned: c2p000024949
+I'm spawned: c2p000024944
+I'm spawned: c2p000024954
+I'm spawned: c2p000024929
+I'm spawned: c2p000024935
+Initializing Omega 1 Environment
+PARTIAL_SORT(1): analysis
+PARTIAL_SORT(1): initialize
+PARTIAL_SORT(1): process
+  nci=true
+  nci=true
+  nci=true
+  nci=true
+  nci=true
+  nci=true
+  nci=true
+  nci=true
+  nci=true
+  nci=true
+  nci=true
+  nci=true
+  nci=true
+  nci=true
+  nci=true
+  nci=true
+  nci=true
+  nci=true
+  nci=true
+  nci=true
+  nci=true
+  nci=true
+  nci=true
+  nci=true
+  nci=true
+  nci=true
+  nci=true
+  nci=true
+  nci=true
+  nci=true
+  nci=true
+  nci=true
+  nci=true
+  nci=true
+  nci=true
+  nci=true
+  nci=true
+  nci=true
+  nci=true
+  nci=true
+  nci=true
+  nci=true
+  nci=true
+  nci=true
+  nci=true
+  nci=true
+  nci=true
+  nci=true
+  nci=true
+  nci=true
+  nci=true
+  nci=true
+  nci=true
+  nci=true
+  nci=true
+  nci=true
+  nci=true
+  nci=true
+  nci=true
+  nci=true
+  nci=true
+  nci=true
+  nci=true
+  nci=true
+  nci=true
+  nci=true
+  nci=true
+  nci=true
+===================================================================================
+=   MPI APPLICATION PROCESS 13535 RANK 0 RUNNING AT c2p000024958
+=   RECEIVED SIGNAL: 14 AND WILL INITIATE MPI_ABORT 
+===================================================================================
+===================================================================================
+=   MPI APPLICATION PROCESS 12290 RANK 2 RUNNING AT c2p000024956
+=   RECEIVED SIGNAL: 14 AND WILL INITIATE MPI_ABORT 
+===================================================================================
+===================================================================================
+=   MPI APPLICATION PROCESS 12553 RANK 4 RUNNING AT c2p000024954
+=   RECEIVED SIGNAL: 14 AND WILL INITIATE MPI_ABORT 
+===================================================================================
+===================================================================================
+=   MPI APPLICATION PROCESS 12319 RANK 31 RUNNING AT c2p000024927
+=   RECEIVED SIGNAL: 14 AND WILL INITIATE MPI_ABORT 
+===================================================================================
+===================================================================================
+=   MPI APPLICATION PROCESS 12514 RANK 32 RUNNING AT c2p000024926
+=   RECEIVED SIGNAL: 14 AND WILL INITIATE MPI_ABORT 
+===================================================================================
+===================================================================================
+=   MPI APPLICATION PROCESS 12185 RANK 5 RUNNING AT c2p000024953
+=   RECEIVED SIGNAL: 14 AND WILL INITIATE MPI_ABORT 
+===================================================================================
+===================================================================================
+=   MPI APPLICATION PROCESS 12276 RANK 11 RUNNING AT c2p000024947
+=   RECEIVED SIGNAL: 14 AND WILL INITIATE MPI_ABORT 
+===================================================================================
+===================================================================================
+=   MPI APPLICATION PROCESS 12244 RANK 30 RUNNING AT c2p000024928
+=   RECEIVED SIGNAL: 14 AND WILL INITIATE MPI_ABORT 
+===================================================================================
+===================================================================================
+=   MPI APPLICATION PROCESS 12228 RANK 29 RUNNING AT c2p000024929
+=   RECEIVED SIGNAL: 14 AND WILL INITIATE MPI_ABORT 
+===================================================================================
+===================================================================================
+=   MPI APPLICATION PROCESS 12298 RANK 13 RUNNING AT c2p000024945
+=   RECEIVED SIGNAL: 14 AND WILL INITIATE MPI_ABORT 
+===================================================================================
+===================================================================================
+=   MPI APPLICATION PROCESS 12881 RANK 9 RUNNING AT c2p000024949
+=   RECEIVED SIGNAL: 14 AND WILL INITIATE MPI_ABORT 
+===================================================================================
+===================================================================================
+=   MPI APPLICATION PROCESS 12304 RANK 7 RUNNING AT c2p000024951
+=   RECEIVED SIGNAL: 14 AND WILL INITIATE MPI_ABORT 
+===================================================================================
+===================================================================================
+=   MPI APPLICATION PROCESS 12127 RANK 24 RUNNING AT c2p000024934
+=   RECEIVED SIGNAL: 14 AND WILL INITIATE MPI_ABORT 
+===================================================================================
+===================================================================================
+=   MPI APPLICATION PROCESS 12621 RANK 21 RUNNING AT c2p000024937
+=   RECEIVED SIGNAL: 14 AND WILL INITIATE MPI_ABORT 
+===================================================================================
+===================================================================================
+=   MPI APPLICATION PROCESS 12299 RANK 1 RUNNING AT c2p000024957
+=   RECEIVED SIGNAL: 14 AND WILL INITIATE MPI_ABORT 
+===================================================================================
+===================================================================================
+=   MPI APPLICATION PROCESS 12244 RANK 30 RUNNING AT c2p000024928
+=   RECEIVED SIGNAL: 11 AND WILL INITIATE MPI_ABORT 
+===================================================================================
+===================================================================================
+=   MPI APPLICATION PROCESS 12226 RANK 23 RUNNING AT c2p000024935
+=   RECEIVED SIGNAL: 14 AND WILL INITIATE MPI_ABORT 
+===================================================================================
+===================================================================================
+=   MPI APPLICATION PROCESS 12195 RANK 15 RUNNING AT c2p000024943
+=   RECEIVED SIGNAL: 14 AND WILL INITIATE MPI_ABORT 
+===================================================================================
+===================================================================================
+=   MPI APPLICATION PROCESS 12195 RANK 15 RUNNING AT c2p000024943
+=   RECEIVED SIGNAL: 11 AND WILL INITIATE MPI_ABORT 
+===================================================================================
+===================================================================================
+=   MPI APPLICATION PROCESS 12169 RANK 10 RUNNING AT c2p000024948
+=   RECEIVED SIGNAL: 14 AND WILL INITIATE MPI_ABORT 
+===================================================================================
+===================================================================================
+=   MPI APPLICATION PROCESS 12855 RANK 14 RUNNING AT c2p000024944
+=   RECEIVED SIGNAL: 14 AND WILL INITIATE MPI_ABORT 
+===================================================================================
+===================================================================================
+=   MPI APPLICATION PROCESS 12190 RANK 12 RUNNING AT c2p000024946
+=   RECEIVED SIGNAL: 14 AND WILL INITIATE MPI_ABORT 
+===================================================================================
+===================================================================================
+=   MPI APPLICATION PROCESS 12295 RANK 6 RUNNING AT c2p000024952
+=   RECEIVED SIGNAL: 14 AND WILL INITIATE MPI_ABORT 
+===================================================================================
+===================================================================================
+=   MPI APPLICATION PROCESS 12236 RANK 22 RUNNING AT c2p000024936
+=   RECEIVED SIGNAL: 14 AND WILL INITIATE MPI_ABORT 
+===================================================================================
+===================================================================================
+=   MPI APPLICATION PROCESS 12302 RANK 8 RUNNING AT c2p000024950
+=   RECEIVED SIGNAL: 14 AND WILL INITIATE MPI_ABORT 
+===================================================================================
+===================================================================================
+=   MPI APPLICATION PROCESS 12398 RANK 3 RUNNING AT c2p000024955
+=   RECEIVED SIGNAL: 14 AND WILL INITIATE MPI_ABORT 
+===================================================================================
+Socket list size2
+Socket list size2
+Socket list size1
+Socket list size1
+Socket list size1
+Socket list size2
+
+===================================================================================
+=   BAD TERMINATION OF ONE OF YOUR APPLICATION PROCESSES
+=   RANK 0 PID 12256 RUNNING AT c2p000024957
+=   KILLED BY SIGNAL: 9 (Killed)
+===================================================================================
+Socket list size1
+
+===================================================================================
+=   BAD TERMINATION OF ONE OF YOUR APPLICATION PROCESSES
+=   RANK 5 PID 12254 RUNNING AT c2p000024952
+=   KILLED BY SIGNAL: 9 (Killed)
+===================================================================================
+
+===================================================================================
+=   BAD TERMINATION OF ONE OF YOUR APPLICATION PROCESSES
+=   RANK 28 PID 12186 RUNNING AT c2p000024929
+=   KILLED BY SIGNAL: 9 (Killed)
+===================================================================================
+
+===================================================================================
+=   BAD TERMINATION OF ONE OF YOUR APPLICATION PROCESSES
+=   RANK 12 PID 12255 RUNNING AT c2p000024945
+=   KILLED BY SIGNAL: 9 (Killed)
+===================================================================================
+
+===================================================================================
+=   BAD TERMINATION OF ONE OF YOUR APPLICATION PROCESSES
+=   RANK 11 PID 12150 RUNNING AT c2p000024946
+=   KILLED BY SIGNAL: 9 (Killed)
+===================================================================================
+
+===================================================================================
+=   BAD TERMINATION OF ONE OF YOUR APPLICATION PROCESSES
+=   RANK 20 PID 12580 RUNNING AT c2p000024937
+=   KILLED BY SIGNAL: 9 (Killed)
+===================================================================================
+
+===================================================================================
+=   BAD TERMINATION OF ONE OF YOUR APPLICATION PROCESSES
+=   RANK 14 PID 12151 RUNNING AT c2p000024943
+=   KILLED BY SIGNAL: 9 (Killed)
+===================================================================================
+
+===================================================================================
+=   BAD TERMINATION OF ONE OF YOUR APPLICATION PROCESSES
+=   RANK 13 PID 12816 RUNNING AT c2p000024944
+=   KILLED BY SIGNAL: 9 (Killed)
+===================================================================================

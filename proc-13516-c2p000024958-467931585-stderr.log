@@ -1,0 +1,35 @@
+Command:
+--------
+
+_ommain omega_runjava.so -Xmx1024M -Domega.launcher.log=proc -Domega.launcher.port=2134 -Domega.jni.nci=0 com.westerngeco.omega.launcher.RMIIIOPServiceContainer com.westerngeco.omega.flow.driver.RemoteFlowDriverService 881315471 &session=Session_adelgado5_1603175767&installation=2021.0-113p&baseline=2021.0-113&site=Cloud_site4&host=c4lg101.c.wg-rne.internal&ORBInitialHost=c4pg001.c.wg-rne.internal&ORBInitialPort=2003&display=localhost%3A19.0&memory=-1 -project tt04 20540 SD_IMP_AUTH_TOKEN=eyJhbGciOiJSUzI1NiIsImtpZCI6IjMyMGFiYTBlMDljOTM4MzliNDg3NThiN2E4NThkNTNlYmYwYmQ2YjciLCJ0eXAiOiJKV1QifQ.eyJhdWQiOiJodHRwczovL3d3dy5nb29nbGVhcGlzLmNvbS9vYXV0aDIvdjQvdG9rZW4iLCJlbWFpbCI6InNlaXNtaWMtc3RvcmUtaW1wLXRva2VuLXNpZ25lckBwNGQtc2Vpc3RvcmUtc2VydmljZXMuaWFtLmdzZXJ2aWNlYWNjb3VudC5jb20iLCJleHAiOjE2MDMyMzA3OTQsImlhdCI6MTYwMzIyNzE5NCwiaXNzIjoic2Vpc21pYy1zdG9yZS1pbXAtdG9rZW4tc2lnbmVyQHA0ZC1zZWlzdG9yZS1zZXJ2aWNlcy5pYW0uZ3NlcnZpY2VhY2NvdW50LmNvbSIsIm9ibyI6ImFkZWxnYWRvNUBzbGIuZGVzaWQuZGVsZmkuc2xiLmNvbSIsInJzcmMiOlt7InJlc291cmNlIjoiZ3RjMDIvdHQwNCIsInJlYWRvbmx5IjpmYWxzZX1dLCJydXJsIjoiaHR0cHM6Ly9vbWVnYS13Zy1ybmUuZXZkLnN1YnN1cmZhY2UuY2xvdWQuc2xiLWRzLmNvbS90aWdnZXItc3ZjL3ZhbGlkYXRlP2d1aWQ9ZTY0OTYzZmEtMzYxZi00MWMwLWIzNTMtM2Y4NjQyMTZhZjhlJmJhc2VsaW5lPTIwMjEuMC0xMTMmcHJvamVjdD10dDA0JnVzZXI9T21lZ2Emam9iaWQ9MjA1NDAmdGVtcGxhdGVqb2JpZD0wJmtleT1BSXphU3lCRUs0SzFnUl9IVDhFUWktb1ZUVHVhemFEcDZ2VnV2TmMiLCJzdWIiOiJzZWlzbWljLXN0b3JlLWltcC10b2tlbi1zaWduZXJAcDRkLXNlaXN0b3JlLXNlcnZpY2VzLmlhbS5nc2VydmljZWFjY291bnQuY29tIn0.sxJzmmoItwCBm7V1iB9kKVFY5Fp48nc8JRwNyIvlrQw_9lLu1Ethoqm31XWLsSNpSr_JMnnYDH81_yI1sl5sYPBhKI9t5ZN2mhdXPFUTnj-ncIqx_pcF7sxuBFhrkbhFbY6MskOuzjAWKadhHlbI00bhGbuwOvay8ktQ5IU-5-0i2wozM44Fk-IRImmwVEMKR6nMdU5MXrT5KAZ29xnAH9Oxqz-vQ2rcPTMiW9XbSNmjFm13x88wjpSKF53yFcV1qJh-aQfDDIREPole2Kogjtr1h28330PsqsNMcaX5X91Z3FyEmSjqB4b5UkvTMtkwuNt7KVoyJJ00PcDa45WTag 
+
+CORBA ORB ........   to corbaloc:iiop:c4pg001.c.wg-rne.internal:2003/NameService ... obtained successfully.
+CORBA Service Delegate ........ opened successfully to 2021.0-113/opmdb/tt04
+CORBA ORB ........   to corbaloc:iiop:c4pg001.c.wg-rne.internal:2003/NameService ... obtained successfully.
+CORBA Service Delegate ........ opened successfully to 2021.0-113/RDMDB
+NCI server 13535 exited with status 14
+Recv error in NCI ipc_lookup()
+Recv error in NCI ipc_lookup()
+Exception in thread "PARTIAL_SORT-5.3a" java.lang.Error: Peer skeleton function "Java_com_westerngeco_omega_log_LogManager_abort0_skel" not found.
+	at com.westerngeco.omega.log.LogManager.abort0(Native Method)
+	at com.westerngeco.omega.log.LogManager.abort(LogManager.java:839)
+	at com.westerngeco.omega.flow.driver.FlowExecModel.abort(FlowExecModel.java:1736)
+	at com.westerngeco.omega.flow.driver.ModuleThread.flowAbort(ModuleThread.java:125)
+	at com.westerngeco.omega.flow.driver.ModuleThread.run(ModuleThread.java:162)
+	at java.base/java.lang.Thread.run(Unknown Source)
+Recv error in NCI ipc_lookup()
+FlowDriver getStatistics error: Peer skeleton function "Java_com_westerngeco_omega_threads_ThreadTimerAccount_totalUser0_skel" not found.
+java.lang.Error: Peer skeleton function "Java_com_westerngeco_omega_threads_ThreadTimerAccount_totalUser0_skel" not found.
+	at com.westerngeco.omega.threads.ThreadTimerAccount.totalUser0(Native Method)
+	at com.westerngeco.omega.threads.ThreadTimerAccount.totalUserCPU(ThreadTimerAccount.java:33)
+	at com.westerngeco.omega.flow.driver.ModuleExecModel.addComputeThreadStatistics(ModuleExecModel.java:610)
+	at com.westerngeco.omega.flow.driver.ModuleExecModel.getStatistics(ModuleExecModel.java:759)
+	at com.westerngeco.omega.flow.driver.FlowExecModel.getStatistics(FlowExecModel.java:1898)
+	at com.westerngeco.omega.flow.driver.FlowDriver.getStatistics(FlowDriver.java:1729)
+	at com.westerngeco.omega.flow.driver.RemoteFlowDriverService.getStatistics(RemoteFlowDriverService.java:480)
+	at com.westerngeco.omega.flow.driver._RemoteFlowDriverService_Tie._invoke(Unknown Source)
+	at org.jacorb.orb.ORB$HandlerWrapper._invoke(ORB.java:3035)
+	at org.jacorb.poa.RequestProcessor.invokeOperation(RequestProcessor.java:402)
+	at org.jacorb.poa.RequestProcessor.process(RequestProcessor.java:726)
+	at org.jacorb.poa.RequestProcessor.run(RequestProcessor.java:884)
+Recv error in NCI ipc_lookup()

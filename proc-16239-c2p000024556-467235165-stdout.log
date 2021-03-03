@@ -1,0 +1,267 @@
+Command:
+--------
+
+_ommain nci_server.so 15 
+
+c2p000024556:Testing MPI Spawn ring in nodes: c2p000024556, c2p000024555, c2p000024554, c2p000024553, c2p000024552, c2p000024551, c2p000024550, c2p000024549, c2p000024548, c2p000024547, c2p000024546, c2p000024545, c2p000024544, c2p000024543, c2p000024542, c2p000024541, c2p000024540, c2p000024539, c2p000024538, c2p000024537, c2p000024536, c2p000024535, c2p000024534, c2p000024533, c2p000024532, c2p000024531, c2p000024530, c2p000024529, c2p000024528, c2p000024527, c2p000024526, c2p000024525, c2p000024524, c2p000024523, c2p000024522, c2p000024521, c2p000024520, c2p000024519, c2p000024518, c2p000024517, c2p000024516, c2p000024515, c2p000024514, c2p000024513, c2p000024512, c2p000024511, c2p000024510, c2p000024509, c2p000024508, c2p000024507, c2p000024506, c2p000024505, c2p000024504, c2p000024503, c2p000024502, c2p000024501, c2p000024500, c2p000024499, c2p000024498, c2p000024497, c2p000024496, c2p000024495, c2p000024494, c2p000024493, c2p000024492, c2p000024491, c2p000024490, c2p000024489, c2p000024488, c2p000024487
+Spawning children
+c2p000024556:Testing MPI Spawn ring in nodes: 
+c2p000024551:Testing MPI Spawn ring in nodes: 
+c2p000024547:Testing MPI Spawn ring in nodes: 
+c2p000024526:Testing MPI Spawn ring in nodes: 
+c2p000024525:Testing MPI Spawn ring in nodes: 
+c2p000024550:Testing MPI Spawn ring in nodes: 
+c2p000024546:Testing MPI Spawn ring in nodes: 
+c2p000024524:Testing MPI Spawn ring in nodes: 
+c2p000024554:Testing MPI Spawn ring in nodes: 
+c2p000024538:Testing MPI Spawn ring in nodes: 
+c2p000024508:Testing MPI Spawn ring in nodes: 
+c2p000024539:Testing MPI Spawn ring in nodes: 
+c2p000024523:Testing MPI Spawn ring in nodes: 
+c2p000024504:Testing MPI Spawn ring in nodes: 
+c2p000024548:Testing MPI Spawn ring in nodes: 
+c2p000024544:Testing MPI Spawn ring in nodes: 
+c2p000024541:Testing MPI Spawn ring in nodes: 
+c2p000024509:Testing MPI Spawn ring in nodes: 
+c2p000024490:Testing MPI Spawn ring in nodes: 
+c2p000024489:Testing MPI Spawn ring in nodes: 
+c2p000024498:Testing MPI Spawn ring in nodes: 
+c2p000024534:Testing MPI Spawn ring in nodes: 
+c2p000024496:Testing MPI Spawn ring in nodes: 
+c2p000024495:Testing MPI Spawn ring in nodes: 
+c2p000024520:Testing MPI Spawn ring in nodes: 
+c2p000024505:Testing MPI Spawn ring in nodes: 
+c2p000024536:Testing MPI Spawn ring in nodes: 
+c2p000024502:Testing MPI Spawn ring in nodes: 
+c2p000024555:Testing MPI Spawn ring in nodes: 
+c2p000024506:Testing MPI Spawn ring in nodes: 
+c2p000024493:Testing MPI Spawn ring in nodes: 
+c2p000024507:Testing MPI Spawn ring in nodes: 
+c2p000024512:Testing MPI Spawn ring in nodes: 
+c2p000024513:Testing MPI Spawn ring in nodes: 
+c2p000024540:Testing MPI Spawn ring in nodes: 
+c2p000024549:Testing MPI Spawn ring in nodes: 
+c2p000024530:Testing MPI Spawn ring in nodes: 
+c2p000024533:Testing MPI Spawn ring in nodes: 
+c2p000024500:Testing MPI Spawn ring in nodes: 
+c2p000024491:Testing MPI Spawn ring in nodes: 
+c2p000024531:Testing MPI Spawn ring in nodes: 
+c2p000024511:Testing MPI Spawn ring in nodes: 
+c2p000024510:Testing MPI Spawn ring in nodes: 
+c2p000024519:Testing MPI Spawn ring in nodes: 
+c2p000024552:Testing MPI Spawn ring in nodes: 
+c2p000024494:Testing MPI Spawn ring in nodes: 
+c2p000024527:Testing MPI Spawn ring in nodes: 
+c2p000024545:Testing MPI Spawn ring in nodes: 
+c2p000024517:Testing MPI Spawn ring in nodes: 
+c2p000024542:Testing MPI Spawn ring in nodes: 
+c2p000024521:Testing MPI Spawn ring in nodes: 
+c2p000024499:Testing MPI Spawn ring in nodes: 
+c2p000024553:Testing MPI Spawn ring in nodes: 
+c2p000024488:Testing MPI Spawn ring in nodes: 
+c2p000024543:Testing MPI Spawn ring in nodes: 
+c2p000024516:Testing MPI Spawn ring in nodes: 
+c2p000024487:Testing MPI Spawn ring in nodes: 
+c2p000024514:Testing MPI Spawn ring in nodes: 
+c2p000024518:Testing MPI Spawn ring in nodes: 
+c2p000024492:Testing MPI Spawn ring in nodes: 
+c2p000024501:Testing MPI Spawn ring in nodes: 
+c2p000024529:Testing MPI Spawn ring in nodes: 
+c2p000024497:Testing MPI Spawn ring in nodes: 
+c2p000024528:Testing MPI Spawn ring in nodes: 
+c2p000024537:Testing MPI Spawn ring in nodes: 
+c2p000024515:Testing MPI Spawn ring in nodes: 
+c2p000024535:Testing MPI Spawn ring in nodes: 
+c2p000024522:Testing MPI Spawn ring in nodes: 
+c2p000024503:Testing MPI Spawn ring in nodes: 
+c2p000024532:Testing MPI Spawn ring in nodes: 
+I'm the parent: c2p000024556
+I'm spawned: c2p000024498
+I'm spawned: c2p000024490
+I'm spawned: c2p000024496
+I'm spawned: c2p000024536
+I'm spawned: c2p000024526
+I'm spawned: c2p000024530
+I'm spawned: c2p000024528
+I'm spawned: c2p000024544
+I'm spawned: c2p000024489
+I'm spawned: c2p000024546
+I'm spawned: c2p000024542
+I'm spawned: c2p000024497
+I'm spawned: c2p000024507
+I'm spawned: c2p000024502
+I'm spawned: c2p000024508
+I'm spawned: c2p000024534
+I'm spawned: c2p000024540
+I'm spawned: c2p000024535
+I'm spawned: c2p000024543
+I'm spawned: c2p000024556
+I'm spawned: c2p000024492
+I'm spawned: c2p000024550
+I'm spawned: c2p000024503
+I'm spawned: c2p000024541
+I'm spawned: c2p000024532
+I'm spawned: c2p000024505
+I'm spawned: c2p000024512
+I'm spawned: c2p000024506
+I'm spawned: c2p000024545
+I'm spawned: c2p000024554
+I'm spawned: c2p000024548
+I'm spawned: c2p000024494
+I'm spawned: c2p000024516
+I'm spawned: c2p000024510
+I'm spawned: c2p000024514I'm spawned: c2p000024504
+
+I'm spawned: c2p000024552
+I'm spawned: c2p000024513
+I'm spawned: c2p000024518
+I'm spawned: c2p000024524
+I'm spawned: c2p000024511
+I'm spawned: c2p000024509
+I'm spawned: c2p000024549
+I'm spawned: c2p000024517
+Initializing Omega 1 Environment
+PARTIAL_SORT(1): analysis
+PARTIAL_SORT(1): initialize
+PARTIAL_SORT(1): process
+  nci=true
+  nci=true
+  nci=true
+  nci=true
+  nci=true
+  nci=true
+  nci=true
+  nci=true
+  nci=true
+  nci=true
+  nci=true
+  nci=true
+  nci=true
+  nci=true
+  nci=true
+  nci=true
+  nci=true
+  nci=true
+  nci=true
+  nci=true
+  nci=true
+  nci=true
+  nci=true
+  nci=true
+  nci=true
+  nci=true
+  nci=true
+  nci=true
+  nci=true
+  nci=true
+  nci=true
+  nci=true
+  nci=true
+  nci=true
+  nci=true
+  nci=true
+  nci=true
+  nci=true
+  nci=true
+  nci=true
+  nci=true
+  nci=true
+  nci=true
+  nci=true
+  nci=true
+  nci=true
+  nci=true
+  nci=true
+  nci=true
+  nci=true
+  nci=true
+  nci=true
+  nci=true
+  nci=true
+  nci=true
+  nci=true
+  nci=true
+  nci=true
+  nci=true
+  nci=true
+  nci=true
+  nci=true
+  nci=true
+  nci=true
+  nci=true
+  nci=true
+  nci=true
+  nci=true
+  nci=true
+Retrying http_request for GET request with https://storage.googleapis.com/storage/v1/b/wg-rne_tt04/o/wgdisk%2Ftt04%2Fsort%2Fseismic_data%2F02_PARTIAL_SORT_T%2Fsyntethic_traces_BLK_020%2F20284 - retry number: 1
+http_request TIMEDOUT for GET request with https://storage.googleapis.com/storage/v1/b/wg-rne_tt04/o/wgdisk%2Ftt04%2Fsort%2Fseismic_data%2F02_PARTIAL_SORT_T%2Fsyntethic_traces_BLK_126%2F3264 - (ERROR) HTTPRequest::Send, performing request, detailed error: Operation too slow. Less than 30 bytes/sec transferred the last 15 seconds The error occurred while executing an HTTP request. error code: 28, error message: 'Timeout was reached']
+Retrying http_request for GET request with https://storage.googleapis.com/storage/v1/b/wg-rne_tt04/o/wgdisk%2Ftt04%2Fsort%2Fseismic_data%2F02_PARTIAL_SORT_T%2Fsyntethic_traces_BLK_126%2F3264 - retry number: 1
+Retrying http_request for GET request with https://storage.googleapis.com/storage/v1/b/wg-rne_tt04/o/wgdisk%2Ftt04%2Fsort%2Fseismic_data%2F02_PARTIAL_SORT_T%2Fsyntethic_traces_BLK_114%2F18747 - retry number: 1
+Retrying http_request for GET request with https://storage.googleapis.com/storage/v1/b/wg-rne_tt04/o/wgdisk%2Ftt04%2Fsort%2Fseismic_data%2F02_PARTIAL_SORT_T%2Fsyntethic_traces_BLK_154%2F18735 - retry number: 1
+Retrying http_request for POST request with https://storage.googleapis.com/upload/storage/v1/b/wg-rne_tt04/o?uploadType=multipart - retry number: 1
+Retrying http_request for POST request with https://storage.googleapis.com/upload/storage/v1/b/wg-rne_tt04/o?uploadType=multipart - retry number: 1
+Retrying http_request for POST request with https://storage.googleapis.com/upload/storage/v1/b/wg-rne_tt04/o?uploadType=multipart - retry number: 1
+Retrying http_request for POST request with https://storage.googleapis.com/upload/storage/v1/b/wg-rne_tt04/o?uploadType=multipart - retry number: 1
+Retrying http_request for POST request with https://storage.googleapis.com/upload/storage/v1/b/wg-rne_tt04/o?uploadType=multipart - retry number: 1
+Retrying http_request for POST request with https://storage.googleapis.com/upload/storage/v1/b/wg-rne_tt04/o?uploadType=multipart - retry number: 1
+Retrying http_request for POST request with https://storage.googleapis.com/upload/storage/v1/b/wg-rne_tt04/o?uploadType=multipart - retry number: 1
+Retrying http_request for GET request with https://storage.googleapis.com/storage/v1/b/wg-rne_tt04/o/wgdisk%2Ftt04%2Fsort%2Fseismic_data%2F02_PARTIAL_SORT_T%2Fsyntethic_traces_BLK_069%2F12026 - retry number: 1
+Retrying http_request for POST request with https://storage.googleapis.com/upload/storage/v1/b/wg-rne_tt04/o?uploadType=multipart - retry number: 1
+Retrying http_request for POST request with https://storage.googleapis.com/upload/storage/v1/b/wg-rne_tt04/o?uploadType=multipart - retry number: 1
+Retrying http_request for POST request with https://storage.googleapis.com/upload/storage/v1/b/wg-rne_tt04/o?uploadType=multipart - retry number: 1
+Retrying http_request for POST request with https://storage.googleapis.com/upload/storage/v1/b/wg-rne_tt04/o?uploadType=multipart - retry number: 1
+Retrying http_request for GET request with https://storage.googleapis.com/storage/v1/b/wg-rne_tt04/o/wgdisk%2Ftt04%2Fsort%2Fseismic_data%2F02_PARTIAL_SORT_T%2Fsyntethic_traces_BLK_041%2F5323 - retry number: 1
+Retrying http_request for GET request with https://storage.googleapis.com/storage/v1/b/wg-rne_tt04/o/wgdisk%2Ftt04%2Fsort%2Fseismic_data%2F02_PARTIAL_SORT_T%2Fsyntethic_traces_BLK_135%2F1615 - retry number: 1
+Retrying http_request for GET request with https://storage.googleapis.com/storage/v1/b/wg-rne_tt04/o/wgdisk%2Ftt04%2Fsort%2Fseismic_data%2F02_PARTIAL_SORT_T%2Fsyntethic_traces_BLK_104%2F3384 - retry number: 1
+Retrying http_request for POST request with https://storage.googleapis.com/upload/storage/v1/b/wg-rne_tt04/o?uploadType=multipart - retry number: 1
+Retrying http_request for POST request with https://storage.googleapis.com/upload/storage/v1/b/wg-rne_tt04/o?uploadType=multipart - retry number: 1
+Retrying http_request for POST request with https://storage.googleapis.com/upload/storage/v1/b/wg-rne_tt04/o?uploadType=multipart - retry number: 1
+Retrying http_request for POST request with https://storage.googleapis.com/upload/storage/v1/b/wg-rne_tt04/o?uploadType=multipart - retry number: 1
+Retrying http_request for POST request with https://storage.googleapis.com/upload/storage/v1/b/wg-rne_tt04/o?uploadType=multipart - retry number: 1
+Retrying http_request for POST request with https://storage.googleapis.com/upload/storage/v1/b/wg-rne_tt04/o?uploadType=multipart - retry number: 1
+Retrying http_request for POST request with https://storage.googleapis.com/upload/storage/v1/b/wg-rne_tt04/o?uploadType=multipart - retry number: 1
+Retrying http_request for POST request with https://storage.googleapis.com/upload/storage/v1/b/wg-rne_tt04/o?uploadType=multipart - retry number: 1
+Retrying http_request for POST request with https://storage.googleapis.com/upload/storage/v1/b/wg-rne_tt04/o?uploadType=multipart - retry number: 1
+Retrying http_request for POST request with https://storage.googleapis.com/upload/storage/v1/b/wg-rne_tt04/o?uploadType=multipart - retry number: 1
+Retrying http_request for POST request with https://storage.googleapis.com/upload/storage/v1/b/wg-rne_tt04/o?uploadType=multipart - retry number: 1
+Retrying http_request for POST request with https://storage.googleapis.com/upload/storage/v1/b/wg-rne_tt04/o?uploadType=multipart - retry number: 1
+Retrying http_request for POST request with https://storage.googleapis.com/upload/storage/v1/b/wg-rne_tt04/o?uploadType=multipart - retry number: 1
+Retrying http_request for POST request with https://storage.googleapis.com/upload/storage/v1/b/wg-rne_tt04/o?uploadType=multipart - retry number: 1
+Retrying http_request for POST request with https://storage.googleapis.com/upload/storage/v1/b/wg-rne_tt04/o?uploadType=multipart - retry number: 1
+Retrying http_request for POST request with https://storage.googleapis.com/upload/storage/v1/b/wg-rne_tt04/o?uploadType=multipart - retry number: 1
+Retrying http_request for POST request with https://storage.googleapis.com/upload/storage/v1/b/wg-rne_tt04/o?uploadType=multipart - retry number: 1
+Retrying http_request for POST request with https://storage.googleapis.com/upload/storage/v1/b/wg-rne_tt04/o?uploadType=multipart - retry number: 1
+Retrying http_request for POST request with https://storage.googleapis.com/upload/storage/v1/b/wg-rne_tt04/o?uploadType=multipart - retry number: 1
+Retrying http_request for POST request with https://storage.googleapis.com/upload/storage/v1/b/wg-rne_tt04/o?uploadType=multipart - retry number: 1
+http_request TIMEDOUT for POST request with https://storage.googleapis.com/upload/storage/v1/b/wg-rne_tt04/o?uploadType=multipart - (ERROR) HTTPRequest::Send, performing request, detailed error: Operation too slow. Less than 30 bytes/sec transferred the last 15 seconds The error occurred while executing an HTTP request. error code: 28, error message: 'Timeout was reached']
+Retrying http_request for POST request with https://storage.googleapis.com/upload/storage/v1/b/wg-rne_tt04/o?uploadType=multipart - retry number: 1
+http_request TIMEDOUT for POST request with https://storage.googleapis.com/upload/storage/v1/b/wg-rne_tt04/o?uploadType=multipart - (ERROR) HTTPRequest::Send, performing request, detailed error: Operation too slow. Less than 30 bytes/sec transferred the last 15 seconds The error occurred while executing an HTTP request. error code: 28, error message: 'Timeout was reached']
+Retrying http_request for POST request with https://storage.googleapis.com/upload/storage/v1/b/wg-rne_tt04/o?uploadType=multipart - retry number: 1
+Retrying http_request for GET request with https://storage.googleapis.com/storage/v1/b/wg-rne_tt04/o/wgdisk%2Ftt04%2Fsort%2Fseismic_data%2F02_PARTIAL_SORT_T%2Fsyntethic_traces_BLK_147%2F659 - retry number: 1
+Retrying http_request for POST request with https://storage.googleapis.com/upload/storage/v1/b/wg-rne_tt04/o?uploadType=multipart - retry number: 1
+Retrying http_request for POST request with https://storage.googleapis.com/upload/storage/v1/b/wg-rne_tt04/o?uploadType=multipart - retry number: 1
+Retrying http_request for POST request with https://storage.googleapis.com/upload/storage/v1/b/wg-rne_tt04/o?uploadType=multipart - retry number: 1
+Retrying http_request for GET request with https://storage.googleapis.com/storage/v1/b/wg-rne_tt04/o/wgdisk%2Ftt04%2Fsort%2Fseismic_data%2F02_PARTIAL_SORT_T%2Fsyntethic_traces_BLK_153%2F2428 - retry number: 1
+Retrying http_request for GET request with https://storage.googleapis.com/storage/v1/b/wg-rne_tt04/o/wgdisk%2Ftt04%2Fsort%2Fseismic_data%2F02_PARTIAL_SORT_T%2Fsyntethic_traces_BLK_008%2F4939 - retry number: 1
+Retrying http_request for GET request with https://storage.googleapis.com/storage/v1/b/wg-rne_tt04/o/wgdisk%2Ftt04%2Fsort%2Fseismic_data%2F02_PARTIAL_SORT_T%2Fsyntethic_traces_BLK_062%2F5589 - retry number: 1
+Retrying http_request for POST request with https://storage.googleapis.com/upload/storage/v1/b/wg-rne_tt04/o?uploadType=multipart - retry number: 1
+Retrying http_request for POST request with https://storage.googleapis.com/upload/storage/v1/b/wg-rne_tt04/o?uploadType=multipart - retry number: 1
+Retrying http_request for POST request with https://storage.googleapis.com/upload/storage/v1/b/wg-rne_tt04/o?uploadType=multipart - retry number: 1
+Retrying http_request for POST request with https://storage.googleapis.com/upload/storage/v1/b/wg-rne_tt04/o?uploadType=multipart - retry number: 1
+Retrying http_request for GET request with https://storage.googleapis.com/storage/v1/b/wg-rne_tt04/o/wgdisk%2Ftt04%2Fsort%2Fseismic_data%2F02_PARTIAL_SORT_T%2Fsyntethic_traces_BLK_076%2F13965 - retry number: 1
+Retrying http_request for GET request with https://storage.googleapis.com/storage/v1/b/wg-rne_tt04/o/wgdisk%2Ftt04%2Fsort%2Fseismic_data%2F02_PARTIAL_SORT_T%2Fsyntethic_traces_BLK_184%2F16087 - retry number: 1
+Retrying http_request for GET request with https://storage.googleapis.com/storage/v1/b/wg-rne_tt04/o/wgdisk%2Ftt04%2Fsort%2Fseismic_data%2F02_PARTIAL_SORT_T%2Fsyntethic_traces_BLK_170%2F14877 - retry number: 1
+Retrying http_request for POST request with https://storage.googleapis.com/upload/storage/v1/b/wg-rne_tt04/o?uploadType=multipart - retry number: 1
+Retrying http_request for POST request with https://storage.googleapis.com/upload/storage/v1/b/wg-rne_tt04/o?uploadType=multipart - retry number: 1
+Retrying http_request for POST request with https://storage.googleapis.com/upload/storage/v1/b/wg-rne_tt04/o?uploadType=multipart - retry number: 1
+Retrying http_request for POST request with https://storage.googleapis.com/upload/storage/v1/b/wg-rne_tt04/o?uploadType=multipart - retry number: 1
+Retrying http_request for GET request with https://storage.googleapis.com/storage/v1/b/wg-rne_tt04/o/wgdisk%2Ftt04%2Fsort%2Fseismic_data%2F02_PARTIAL_SORT_T%2Fsyntethic_traces_BLK_065%2F12148 - retry number: 1
+Retrying http_request for POST request with https://storage.googleapis.com/upload/storage/v1/b/wg-rne_tt04/o?uploadType=multipart - retry number: 1
+Retrying http_request for GET request with https://storage.googleapis.com/storage/v1/b/wg-rne_tt04/o/wgdisk%2Ftt04%2Fsort%2Fseismic_data%2F02_PARTIAL_SORT_T%2Fsyntethic_traces_BLK_199%2F5433 - retry number: 1
+Retrying http_request for GET request with https://storage.googleapis.com/storage/v1/b/wg-rne_tt04/o/wgdisk%2Ftt04%2Fsort%2Fseismic_data%2F02_PARTIAL_SORT_T%2Fsyntethic_traces_BLK_051%2F19803 - retry number: 1
+Retrying http_request for GET request with https://storage.googleapis.com/storage/v1/b/wg-rne_tt04/o/wgdisk%2Ftt04%2Fsort%2Fseismic_data%2F02_PARTIAL_SORT_T%2Fsyntethic_traces_BLK_106%2F2321 - retry number: 1
+Retrying http_request for POST request with https://storage.googleapis.com/upload/storage/v1/b/wg-rne_tt04/o?uploadType=multipart - retry number: 1
+Retrying http_request for POST request with https://storage.googleapis.com/upload/storage/v1/b/wg-rne_tt04/o?uploadType=multipart - retry number: 1
+Retrying http_request for POST request with https://storage.googleapis.com/upload/storage/v1/b/wg-rne_tt04/o?uploadType=multipart - retry number: 1
+Retrying http_request for POST request with https://storage.googleapis.com/upload/storage/v1/b/wg-rne_tt04/o?uploadType=multipart - retry number: 1
+PARTIAL_SORT(1): process completed

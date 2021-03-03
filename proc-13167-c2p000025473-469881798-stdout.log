@@ -1,0 +1,199 @@
+Command:
+--------
+
+_ommain nci_server.so 15 
+
+c2p000025473:Testing MPI Spawn ring in nodes: c2p000025473, c2p000025472, c2p000025471, c2p000025470, c2p000025469, c2p000025468, c2p000025467, c2p000025466, c2p000025465, c2p000025464, c2p000025463, c2p000025462, c2p000025461, c2p000025460, c2p000025459, c2p000025458, c2p000025457, c2p000025456, c2p000025455, c2p000025454, c2p000025453, c2p000025452, c2p000025451, c2p000025450, c2p000025448, c2p000025447, c2p000025446, c2p000025445, c2p000025444, c2p000025442, c2p000025441, c2p000025439, c2p000025438, c2p000025437, c2p000025436, c2p000025435, c2p000025434, c2p000025433, c2p000025432, c2p000025431, c2p000025430, c2p000025429, c2p000025428, c2p000025427, c2p000025426, c2p000025425, c2p000025424, c2p000025423, c2p000025422, c2p000025421, c2p000025420, c2p000025419, c2p000025418, c2p000025417, c2p000025416, c2p000025415, c2p000025414, c2p000025413, c2p000025412, c2p000025411, c2p000025410, c2p000025409, c2p000025408, c2p000025407, c2p000025406, c2p000025405, c2p000025404
+Spawning children
+c2p000025473:Testing MPI Spawn ring in nodes: 
+c2p000025425:Testing MPI Spawn ring in nodes: 
+c2p000025428:Testing MPI Spawn ring in nodes: 
+c2p000025427:Testing MPI Spawn ring in nodes: 
+c2p000025431:Testing MPI Spawn ring in nodes: 
+c2p000025426:Testing MPI Spawn ring in nodes: 
+c2p000025424:Testing MPI Spawn ring in nodes: 
+c2p000025430:Testing MPI Spawn ring in nodes: 
+c2p000025429:Testing MPI Spawn ring in nodes: 
+c2p000025450:Testing MPI Spawn ring in nodes: 
+c2p000025446:Testing MPI Spawn ring in nodes: 
+c2p000025447:Testing MPI Spawn ring in nodes: 
+c2p000025448:Testing MPI Spawn ring in nodes: 
+c2p000025453:Testing MPI Spawn ring in nodes: 
+c2p000025435:Testing MPI Spawn ring in nodes: 
+c2p000025434:Testing MPI Spawn ring in nodes: 
+c2p000025411:Testing MPI Spawn ring in nodes: 
+c2p000025410:Testing MPI Spawn ring in nodes: 
+c2p000025454:Testing MPI Spawn ring in nodes: 
+c2p000025460:Testing MPI Spawn ring in nodes: 
+c2p000025421:Testing MPI Spawn ring in nodes: 
+c2p000025468:Testing MPI Spawn ring in nodes: 
+c2p000025456:Testing MPI Spawn ring in nodes: 
+c2p000025455:Testing MPI Spawn ring in nodes: 
+c2p000025418:Testing MPI Spawn ring in nodes: 
+c2p000025463:Testing MPI Spawn ring in nodes: 
+c2p000025466:Testing MPI Spawn ring in nodes: 
+c2p000025459:Testing MPI Spawn ring in nodes: 
+c2p000025420:Testing MPI Spawn ring in nodes: 
+c2p000025467:Testing MPI Spawn ring in nodes: 
+c2p000025432:Testing MPI Spawn ring in nodes: 
+c2p000025414:Testing MPI Spawn ring in nodes: 
+c2p000025416:Testing MPI Spawn ring in nodes: 
+c2p000025462:Testing MPI Spawn ring in nodes: 
+c2p000025461:Testing MPI Spawn ring in nodes: 
+c2p000025409:Testing MPI Spawn ring in nodes: 
+c2p000025436:Testing MPI Spawn ring in nodes: 
+c2p000025451:Testing MPI Spawn ring in nodes: 
+c2p000025422:Testing MPI Spawn ring in nodes: 
+c2p000025465:Testing MPI Spawn ring in nodes: 
+c2p000025469:Testing MPI Spawn ring in nodes: 
+c2p000025413:Testing MPI Spawn ring in nodes: 
+c2p000025464:Testing MPI Spawn ring in nodes: 
+c2p000025472:Testing MPI Spawn ring in nodes: 
+c2p000025412:Testing MPI Spawn ring in nodes: 
+c2p000025433:Testing MPI Spawn ring in nodes: 
+c2p000025408:Testing MPI Spawn ring in nodes: 
+c2p000025406:Testing MPI Spawn ring in nodes: 
+c2p000025405:Testing MPI Spawn ring in nodes: 
+c2p000025437:Testing MPI Spawn ring in nodes: 
+c2p000025445:Testing MPI Spawn ring in nodes: 
+c2p000025439:Testing MPI Spawn ring in nodes: 
+c2p000025452:Testing MPI Spawn ring in nodes: 
+c2p000025470:Testing MPI Spawn ring in nodes: 
+c2p000025442:Testing MPI Spawn ring in nodes: 
+c2p000025415:Testing MPI Spawn ring in nodes: 
+c2p000025407:Testing MPI Spawn ring in nodes: 
+c2p000025457:Testing MPI Spawn ring in nodes: 
+c2p000025438:Testing MPI Spawn ring in nodes: 
+c2p000025404:Testing MPI Spawn ring in nodes: 
+c2p000025471:Testing MPI Spawn ring in nodes: 
+c2p000025417:Testing MPI Spawn ring in nodes: 
+c2p000025444:Testing MPI Spawn ring in nodes: 
+c2p000025441:Testing MPI Spawn ring in nodes: 
+c2p000025458:Testing MPI Spawn ring in nodes: 
+c2p000025423:Testing MPI Spawn ring in nodes: 
+c2p000025419:Testing MPI Spawn ring in nodes: 
+I'm the parent: c2p000025473
+I'm spawned: c2p000025448
+I'm spawned: c2p000025408
+I'm spawned: c2p000025442
+I'm spawned: c2p000025446
+I'm spawned: c2p000025452
+I'm spawned: c2p000025421
+I'm spawned: c2p000025417
+I'm spawned: c2p000025429
+I'm spawned: c2p000025432
+I'm spawned: c2p000025469
+I'm spawned: c2p000025439
+I'm spawned: c2p000025411
+I'm spawned: c2p000025414
+I'm spawned: c2p000025445
+I'm spawned: c2p000025450
+I'm spawned: c2p000025431
+I'm spawned: c2p000025455
+I'm spawned: c2p000025420
+I'm spawned: c2p000025453
+I'm spawned: c2p000025456
+I'm spawned: c2p000025459
+I'm spawned: c2p000025434
+I'm spawned: c2p000025412
+I'm spawned: c2p000025409
+I'm spawned: c2p000025462
+I'm spawned: c2p000025424
+I'm spawned: c2p000025470
+I'm spawned: c2p000025464
+I'm spawned: c2p000025467
+I'm spawned: c2p000025457
+I'm spawned: c2p000025460
+I'm spawned: c2p000025473
+I'm spawned: c2p000025419
+I'm spawned: c2p000025415
+I'm spawned: c2p000025422
+I'm spawned: c2p000025418
+I'm spawned: c2p000025406
+I'm spawned: c2p000025461
+I'm spawned: c2p000025427
+I'm spawned: c2p000025410
+I'm spawned: c2p000025472
+I'm spawned: c2p000025426
+I'm spawned: c2p000025444
+I'm spawned: c2p000025416
+I'm spawned: c2p000025423
+I'm spawned: c2p000025425
+I'm spawned: c2p000025468
+I'm spawned: c2p000025465
+I'm spawned: c2p000025454
+I'm spawned: c2p000025451
+I'm spawned: c2p000025433
+I'm spawned: c2p000025471
+Initializing Omega 1 Environment
+PARTIAL_SORT(1): analysis
+PARTIAL_SORT(1): initialize
+PARTIAL_SORT(1): process
+  nci=true
+  nci=true
+  nci=true
+  nci=true
+  nci=true
+  nci=true
+  nci=true
+  nci=true
+  nci=true
+  nci=true
+  nci=true
+  nci=true
+  nci=true
+  nci=true
+  nci=true
+  nci=true
+  nci=true
+  nci=true
+  nci=true
+  nci=true
+  nci=true
+  nci=true
+  nci=true
+  nci=true
+  nci=true
+  nci=true
+  nci=true
+  nci=true
+  nci=true
+  nci=true
+  nci=true
+  nci=true
+  nci=true
+  nci=true
+  nci=true
+  nci=true
+  nci=true
+  nci=true
+  nci=true
+  nci=true
+  nci=true
+  nci=true
+  nci=true
+  nci=true
+  nci=true
+  nci=true
+  nci=true
+  nci=true
+  nci=true
+  nci=true
+  nci=true
+  nci=true
+  nci=true
+  nci=true
+  nci=true
+  nci=true
+  nci=true
+  nci=true
+  nci=true
+  nci=true
+  nci=true
+  nci=true
+  nci=true
+  nci=true
+  nci=true
+  nci=true
+Retrying http_request for GET request with https://storage.googleapis.com/storage/v1/b/wg-rne_tt04/o/wgdisk%2Ftt04%2Fsort%2Fseismic_data%2F02_PARTIAL_SORT_T%2Fsyntethic_traces_BLK_051%2F14766 - retry number: 1
+Retrying http_request for GET request with https://storage.googleapis.com/storage/v1/b/wg-rne_tt04/o/wgdisk%2Ftt04%2Fsort%2Fseismic_data%2F02_PARTIAL_SORT_T%2Fsyntethic_traces_BLK_054%2F14736 - retry number: 1
